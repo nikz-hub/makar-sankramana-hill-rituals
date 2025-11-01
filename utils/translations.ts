@@ -1,0 +1,60 @@
+export const translations = {
+  kn: {
+    infoScreen: {
+      title: 'ಮಕರ ಸಂಕ್ರಾಂತಿ',
+      subtitle: 'ಬೆಟ್ಟದ ಮೇಲಿನ ವಿಶೇಷ ಆಚರಣೆಗಳು',
+      imageAlt: 'ಕರ್ನಾಟಕದ ಬೆಟ್ಟದ ಮೇಲೆ ಮಕರ ಸಂಕ್ರಾಂತಿಯ ಸೂರ್ಯೋದಯ',
+      introHeader: 'ಪರಿಚಯ',
+      introText: 'ಮಕರ ಸಂಕ್ರಾಂತಿಯು ಸೂರ್ಯನು ಮಕರ ರಾಶಿಯನ್ನು ಪ್ರವೇಶಿಸುವುದನ್ನು ಸೂಚಿಸುವ ಸುಗ್ಗಿಯ ಹಬ್ಬವಾಗಿದೆ. ಕರ್ನಾಟಕದಾದ್ಯಂತ, ವಿಶೇಷವಾಗಿ ಬೆಟ್ಟಗುಡ್ಡಗಳ ಪ್ರದೇಶಗಳಲ್ಲಿ, ಈ ಹಬ್ಬವನ್ನು ವಿಶಿಷ್ಟ ಸಂಪ್ರದಾಯ ಮತ್ತು ಶ್ರದ್ಧೆಯಿಂದ ಆಚರಿಸಲಾಗುತ್ತದೆ. ಜನರು ಬೆಟ್ಟಗಳ ಮೇಲೆ ಒಟ್ಟಾಗಿ ಸೇರಿ ಸೂರ್ಯ ದೇವರಿಗೆ ಪ್ರಾರ್ಥನೆ ಸಲ್ಲಿಸುತ್ತಾರೆ.',
+      ritualsHeader: 'ಪ್ರಮುಖ ಆಚರಣೆಗಳು',
+      ritual1: { strong: 'ಎಳ್ಳು ಬೆಲ್ಲ ವಿತರಣೆ:', text: '"ಎಳ್ಳು ಬೆಲ್ಲ ತಿಂದು ಒಳ್ಳೆ ಮಾತಾಡಿ" ಎಂದು ಹೇಳುತ್ತಾ, ಎಳ್ಳು, ಬೆಲ್ಲ, ಕೊಬ್ಬರಿ, ಮತ್ತು ಕಡಲೆಕಾಯಿಯ ಮಿಶ್ರಣವನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತಾರೆ.' },
+      ritual2: { strong: 'ಗೋ ಪೂಜೆ:', text: 'ರೈತರು ತಮ್ಮ ಜಾನುವಾರುಗಳನ್ನು ಸ್ನಾನ ಮಾಡಿಸಿ, ಅಲಂಕರಿಸಿ ಪೂಜಿಸುತ್ತಾರೆ.' },
+      ritual3: { strong: 'ಕಿಚ್ಚು ಹಾಯಿಸುವುದು:', text: 'ಸಂಜೆಯ ಸಮಯದಲ್ಲಿ, ಅಲಂಕರಿಸಿದ ಹಸುಗಳನ್ನು ಬೆಂಕಿಯ ಮೇಲೆ ಹಾರಿಸಲಾಗುತ್ತದೆ, ಇದು ದುಷ್ಟ ಶಕ್ತಿಗಳನ್ನು ದೂರ ಮಾಡುತ್ತದೆ ಎಂಬ ನಂಬಿಕೆ ಇದೆ.' },
+      ritual4: { strong: 'ಗಾಳಿಪಟ ಹಾರಾಟ:', text: 'ಆಕಾಶದಲ್ಲಿ ಬಣ್ಣಬಣ್ಣದ ಗಾಳಿಪಟಗಳನ್ನು ಹಾರಿಸುವುದು ಈ ಹಬ್ಬದ ಪ್ರಮುಖ ಆಕರ್ಷಣೆ.' },
+      hillsHeader: 'ಬೆಟ್ಟಗಳ ಮೇಲಿನ ವಿಶೇಷತೆ',
+      hillsText: 'ಕರ್ನಾಟಕದ ಅನೇಕ ಪ್ರಸಿದ್ಧ ಬೆಟ್ಟಗಳಾದ ಸಾವನದುರ್ಗ, ಮಧುಗಿರಿ, ಮತ್ತು ನಂದಿ ಬೆಟ್ಟಗಳಲ್ಲಿ ಜನರು ಸೂರ್ಯೋದಯವನ್ನು ವೀಕ್ಷಿಸಲು ಸೇರುತ್ತಾರೆ. ಅಲ್ಲಿ ಅವರು ವಿಶೇಷ ಪೂಜೆಗಳನ್ನು ಸಲ್ಲಿಸಿ, ಪೊಂಗಲ್ ತಯಾರಿಸಿ ದೇವರಿಗೆ ನೈವೇದ್ಯ ಮಾಡುತ್ತಾರೆ. ಈ ಪವಿತ್ರ ದಿನದಂದು ಬೆಟ್ಟದ ಮೇಲಿನ ದೇವಾಲಯಗಳಿಗೆ ಭೇಟಿ ನೀಡುವುದು ಮಂಗಳಕರವೆಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ.',
+      chatbotButtonLabel: 'ಸಹಾಯಕ ಚಾಟ್‌ಬಾಟ್',
+      chatbotButtonAriaLabel: 'ಸಹಾಯಕ ಚಾಟ್‌ಬಾಟ್ ತೆರೆಯಿರಿ',
+    },
+    chatbot: {
+      headerTitle: 'ಸಹಾಯಕ ಚಾಟ್‌ಬಾಟ್',
+      initialMessage: 'ನಮಸ್ಕಾರ! ಕರ್ನಾಟಕದ ಮಕರ ಸಂಕ್ರಾಂತಿ ಬೆಟ್ಟದ ಆಚರಣೆಗಳ ಬಗ್ಗೆ ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಲಿ?',
+      errorMessage: 'ಕ್ಷಮಿಸಿ, ದೋಷವೊಂದು ಉಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.',
+      inputPlaceholder: 'ನಿಮ್ಮ ಪ್ರಶ್ನೆಯನ್ನು ಇಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ...',
+      micStartAriaLabel: 'ಧ್ವನಿಮುದ್ರಣ ಪ್ರಾರಂಭಿಸಿ',
+      micStopAriaLabel: 'ಧ್ವನಿಮುದ್ರಣ ನಿಲ್ಲಿಸಿ',
+      sendAriaLabel: 'ಸಂದೇಶ ಕಳುಹಿಸಿ',
+      playAudioAriaLabel: 'ಧ್ವನಿ ಕೇಳಿ',
+      micAlert: 'ಕ್ಷಮಿಸಿ, ನಿಮ್ಮ ಬ್ರೌಸರ್ ಧ್ವನಿ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ.',
+    }
+  },
+  en: {
+    infoScreen: {
+      title: 'Makar Sankranti',
+      subtitle: 'Special Hilltop Celebrations',
+      imageAlt: 'Makar Sankranti sunrise over a hill in Karnataka',
+      introHeader: 'Introduction',
+      introText: 'Makar Sankranti is a harvest festival that marks the entry of the sun into the Capricorn zodiac sign. Across Karnataka, especially in the hilly regions, this festival is celebrated with unique traditions and devotion. People gather on hilltops to offer prayers to the Sun God.',
+      ritualsHeader: 'Key Rituals',
+      ritual1: { strong: 'Ellu Bella Distribution:', text: 'Exchanging a mixture of sesame seeds, jaggery, coconut, and peanuts, while saying "Ellu Bella Thindu Olle Maathadi" (Eat sesame and jaggery and speak good words).' },
+      ritual2: { strong: 'Go Puja (Cow Worship):', text: 'Farmers bathe and decorate their cattle and worship them.' },
+      ritual3: { strong: 'Kichchu Haayisuvudu:', text: 'In the evening, decorated cows are made to jump over a fire, a ritual believed to ward off evil.' },
+      ritual4: { strong: 'Kite Flying:', text: 'Flying colorful kites in the sky is a major attraction of this festival.' },
+      hillsHeader: 'Specialty on the Hills',
+      hillsText: 'In many famous hills of Karnataka like Savandurga, Madhugiri, and Nandi Hills, people gather to watch the sunrise. They perform special pujas and prepare Pongal as an offering to the deity. Visiting temples on hilltops is considered auspicious on this holy day.',
+      chatbotButtonLabel: 'Assistant Chatbot',
+      chatbotButtonAriaLabel: 'Open assistant chatbot',
+    },
+    chatbot: {
+      headerTitle: 'Assistant Chatbot',
+      initialMessage: 'Hello! How can I help you today regarding Makar Sankranti hilltop celebrations in Karnataka?',
+      errorMessage: 'Sorry, an error occurred. Please try again.',
+      inputPlaceholder: 'Type your question here...',
+      micStartAriaLabel: 'Start recording',
+      micStopAriaLabel: 'Stop recording',
+      sendAriaLabel: 'Send message',
+      playAudioAriaLabel: 'Listen to audio',
+      micAlert: 'Sorry, your browser does not support voice recognition.',
+    }
+  }
+};
